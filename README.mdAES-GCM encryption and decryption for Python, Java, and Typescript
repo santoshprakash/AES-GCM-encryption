@@ -1,0 +1,3 @@
+AES-GCM encryption and decryption for Python, Java, and Typescript
+
+AES-GCM is a block cipher mode of operation that provides high speed of authenticated encryption and data integrity. Todays, the level of privacy protection is insufficient and make the data is been hacked easily.
